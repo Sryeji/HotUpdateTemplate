@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_AOT_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ddecec63cf8e0e441bfc3b0fbf7fbd0d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 58112747466752
+    m_Localized: Initializing...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441333771366400
+    m_Localized: Checking network...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441398367842304
+    m_Localized: No network connection. Please check your internet and try again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441683018477568
+    m_Localized: Checking catalog...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441758281068544
+    m_Localized: Updating {0} catalog(s)...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441858076143616
+    m_Localized: Calculating download size...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441992998514688
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442026590695424
+    m_Localized: Quit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442067355136000
+    m_Localized: You're on mobile data. To avoid charges, we recommend downloading
+      over Wi-Fi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442197986734080
+    m_Localized: Downloading resources...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442277649149952
+    m_Localized: Download complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442397543329792
+    m_Localized: Download failed. Please check your network and try again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442548747988992
+    m_Localized: Download failed. Retry?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442589613092864
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442679945818112
+    m_Localized: You're using the latest resources. No download needed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442857012555776
+    m_Localized: Ready to start the game
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

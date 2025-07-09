@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringTable_AOT Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringTable_AOT
+  m_TableCollectionNameGuidString: ddecec63cf8e0e441bfc3b0fbf7fbd0d
+  m_Entries:
+  - m_Id: 58112747466752
+    m_Key: msg_Init
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441333771366400
+    m_Key: msg_CheckNetwork
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441398367842304
+    m_Key: msg_NetworkError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441683018477568
+    m_Key: msg_CheckCatalog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441758281068544
+    m_Key: msg_UpdateCatalog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441858076143616
+    m_Key: msg_GetDownloadSize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 441992998514688
+    m_Key: btn_Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442026590695424
+    m_Key: btn_Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442067355136000
+    m_Key: msg_CarrierData
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442197986734080
+    m_Key: msg_Downloading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442277649149952
+    m_Key: msg_DownloadSucceeded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442397543329792
+    m_Key: msg_DownloadFailed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442548747988992
+    m_Key: msg_Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442589613092864
+    m_Key: btn_Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442679945818112
+    m_Key: msg_LatestBundles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442857012555776
+    m_Key: msg_ReadyToStart
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4900300307736297496
+  references:
+    version: 2
+    RefIds:
+    - rid: 4900300307736297496
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1751942065415
